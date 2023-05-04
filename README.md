@@ -1,3 +1,5 @@
+<img src= https://user-images.githubusercontent.com/90187518/236146850-dbedd598-9ba9-4408-9f27-d4d972a0604d.gif width="300" height="300" align="right">
+
 ### Hi there, I'm Maulana Alief Hafids 👋
 
 <!--
@@ -12,12 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 - 🔭 I'm a: Business System Informations student at State Polytechnic of Malang.
 - 🌱 I’m currently learning: Full Stack Web Development, React.
 - 📫 How to reach me: [instagram](https://www.instagram.com/aliefhafids_/)
 - 😄 Pronouns: He/Him
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
