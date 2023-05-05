@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a: Business System Informations student at State Polytechnic of Malang.
 - 🌱 I’m currently learning: Full Stack Web Development, React.
-- 📫 How to reach me: [instagram](https://www.instagram.com/aliefhafids_/)
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact **I'm a humorous person**
 
 
 <h3 align="left">Connect with me:</h3>
